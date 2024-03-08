@@ -12,7 +12,7 @@ export default function Menu() {
       image: "/hamburgueza.jpeg",
     },
     {
-      name: "Pizza",
+      name: "Pizza Pro",
       price: 10.99,
       description: "Pizza recién horneada con tus ingredientes favoritos.",
       image: "/descarga.jpeg",
